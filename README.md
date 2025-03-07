@@ -1,10 +1,10 @@
-Sales Dashboard
+Sales Dashboard:
 
-Overview
+Overview:
 
 This repository contains a Power BI Sales Dashboard that provides insights into sales performance, revenue trends, and key business metrics. The dashboard helps businesses track their sales pipeline, identify growth opportunities, and optimize sales strategies based on data-driven insights.
 
-Features
+Features:
 
 Dashboard Overview: A visually interactive Power BI dashboard displaying sales performance.
 
@@ -24,7 +24,7 @@ Key Metrics Analyzed:
 
 7.Performance Insights: Identify top-performing products, regions, and sales representatives.
 
-Dataset
+Dataset:
 
 The analysis is based on sales data, which includes:
 
